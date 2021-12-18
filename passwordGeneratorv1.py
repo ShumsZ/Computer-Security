@@ -1,3 +1,4 @@
+#a basic password generator that outputs a 16 character password
 import random
 
 variables = ["abcdefghijklmnopqrstuvwxyz", "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "1234567890","£$%&!*"]
