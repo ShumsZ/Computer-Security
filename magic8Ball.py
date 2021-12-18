@@ -1,3 +1,5 @@
+#a fun little bit of code to simulate a funny and sarcastic Magic 8 ball
+
 import random
 
 positive_answers = ["Hell yeah!", "I would be happy to help", "You've got this buddy", "I see great things in your future", "Yes definitely", "Tell them how you feel and I am 70% sure they will understand", "You are amazing" ," Absolutely!!", "You were raised right", "Sure!" ]
