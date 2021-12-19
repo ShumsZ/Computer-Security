@@ -1,4 +1,4 @@
-# RSA encoder
+# RSA encoder and decoder
 
 # RSA is based on the problem of factorization of large prime numbers
 # This program is designed to encode and decode word using the RSA algorithm
